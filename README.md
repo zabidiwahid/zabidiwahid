@@ -14,4 +14,5 @@ I'm a Software Developer from Malaysia
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
    
- <a href="https://github.com/zabidiwahid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zabidiwahid&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/zabidiwahid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabidiwahid&layout=compact&theme=buefy&hide_border=true" /></a> 
+<img src="https://github-readme-stats.vercel.app/api?username=zabidiwahid&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
+ <a href="https://github.com/zabidiwahid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabidiwahid&layout=compact&theme=buefy&hide_border=true" /></a> 
